@@ -39,7 +39,7 @@
 @import url('hover.css');
 @import url('jquery-ui.css');
 @import url('jquery.bootstrap-touchspin.css');
-
+@import url('../fonts/font/flaticon.css');
 /*** 
 
 ====================================================================
@@ -1730,7 +1730,7 @@ img{
 
 .project-section{
 	position:relative;
-	padding:100px 0px 100px;
+	padding: 60px 0px 50px;
 	background-color:#2a2a33;
 }
 
@@ -2053,7 +2053,7 @@ img{
 
 .contact-info-section{
 	position:relative;
-	padding:70px 0px 40px;
+	padding: 50px 0px 20px;
 }
 
 .info-block{
@@ -2086,7 +2086,7 @@ img{
 .info-block .inner .text span{
 	display:block;
 	color:#333333;
-	font-size:20px;
+	font-size:17px;
 	font-weight:700;
 }
 
@@ -6869,4 +6869,10 @@ img{
 	display: none;
 	margin: 0;
 	overflow: hidden;
+}
+.mb-20{
+	margin-bottom: 20px;
+}
+.flaticon-hydro-power{
+	font-size: 80px;
 }

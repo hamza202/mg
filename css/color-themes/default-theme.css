@@ -216,3 +216,7 @@ a,
 	}
 	
 }
+.cat-list li a:hover,.cat-list li.active a{
+	color: #fff;
+	background-color: #ffb200;
+}

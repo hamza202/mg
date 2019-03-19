@@ -40,7 +40,7 @@
 		
 		//Disable dropdown parent link
 		$('.navigation li.dropdown > a').on('click', function(e) {
-			// e.preventDefault();
+			e.preventDefault();
 		});
 	}
 	
