@@ -42,7 +42,7 @@
 @import url('../fonts/font/flaticon.css');
 @import url('bootstrap-rtl.css');
 @import url('rtl-css.css');
-
+@import url('https://fonts.googleapis.com/css?family=Cairo:400,600,700');
 /*** 
 
 ====================================================================
@@ -76,7 +76,7 @@ body {
 	background-repeat:no-repeat;
 	background-position:center top;
 	-webkit-font-smoothing: antialiased;
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 a{
@@ -96,11 +96,11 @@ h1,h2,h3,h4,h5,h6 {
 	margin:0px;
 	background:none;
 	line-height:1.6em;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 input,button,select,textarea{
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 textarea{
@@ -147,7 +147,7 @@ ul,li{
 	-webkit-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
 	-o-transition:all 0.3s ease;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .grey-bg{
@@ -167,7 +167,7 @@ ul,li{
 	padding-right:20px;
 	margin-bottom:10px;
 	color:#777777;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .list-style-one li:before{
@@ -288,7 +288,7 @@ ul,li{
     padding: 8px 16px;
     background: #ffb200;
     border-radius: 4px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Cairo', sans-serif;
 }
 
 .btn-style-four:hover{
@@ -495,7 +495,7 @@ img{
 	font-weight:600;
 	color:#333333;
 	font-size:18px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .main-header .info-box .order-btn{
@@ -507,7 +507,7 @@ img{
 	padding:8px 16px;
 	background:#ffb200;
 	border-radius:3px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .main-header .info-box .order-btn:hover{
@@ -571,7 +571,7 @@ img{
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .main-menu .navigation > li > a:before{
@@ -1068,7 +1068,7 @@ img{
 	margin-left: 0;
 	display:inline-block;
 	font-weight:600;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .social-icon-two li a{
@@ -1464,7 +1464,7 @@ img{
 	float:right;
 	font-size:16px;
 	font-weight:600;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .services-block .inner-box .image .overlay-box .read-more:hover{
@@ -1654,7 +1654,7 @@ img{
 	-webkit-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
 	-o-transition:all 0.3s ease;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .process-block .inner-box:hover .upper-box .icon-box .block-number{
@@ -2174,7 +2174,7 @@ img{
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;	
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .default-form input:focus,
@@ -2568,7 +2568,7 @@ img{
 	color:#ffffff;
 	line-height:1.4em;
 	text-align:center;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .call-to-action-two span{
@@ -3004,7 +3004,7 @@ img{
 	font-weight:700;
 	color:#333333;
 	font-size:48px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .fact-counter .count-outer .count-text{
@@ -3012,7 +3012,7 @@ img{
 	font-weight:700;
 	color:#333333;
 	font-size:48px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .fact-counter .column .counter-title{
@@ -3112,7 +3112,7 @@ img{
 	color:#e3e4e6;
 	font-size:20px;
 	line-height:1.4em;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .team-block .inner-box .lower-box h3 a{
@@ -3685,7 +3685,7 @@ img{
 	-webkit-transition:all 500ms ease;
 	-ms-transition:all 500ms ease;
 	-o-transition:all 500ms ease;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .blog-cat li a:before{
@@ -3755,7 +3755,7 @@ img{
 	font-size:16px;
 	font-weight:700;
 	color:#333333;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .brochure-box:hover{
@@ -3807,7 +3807,7 @@ img{
 	position:relative;
 	font-weight:700;
 	font-size:16px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .solution-single{
@@ -3903,7 +3903,7 @@ img{
 	-o-transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .accordion-box .block .acc-btn.active,
@@ -4028,7 +4028,7 @@ img{
 	-webkit-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
 	-o-transition:all 0.3s ease;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .solution-single .prod-tabs .tab-btns .tab-btn:hover:after,
@@ -4121,7 +4121,7 @@ img{
 	-webkit-transition:all 0.3s ease;
 	-ms-transition:all 0.3s ease;
 	-o-transition:all 0.3s ease;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .project-page-section .filters .filter-tabs .filter:last-child{
@@ -4234,7 +4234,7 @@ img{
 	font-weight:700;
 	font-size:20px;
 	margin-bottom:20px;
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .project-single-section .inner-box .lower-content h3{
@@ -4285,7 +4285,7 @@ img{
 	color:#333333;
 	font-weight:700;
 	margin-right:15px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .project-list li.social-icons{
@@ -4573,7 +4573,7 @@ img{
 	margin-bottom:15px;
 	padding:0px 38px 10px 15px;
 	border-bottom:1px solid #cccccc;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-webkit-transition:all 0.3s ease;
@@ -4861,7 +4861,7 @@ img{
 	line-height:24px;	
 	font-size:16px;
 	font-weight:700;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .sidebar-page-container .comments-area .comment-info span{
@@ -4869,7 +4869,7 @@ img{
 	font-size:16px;
 	color:#777777;
 	margin-left:22px;
-	font-family: 'PT Sans', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .sidebar-page-container .comments-area .comment .comment-inner .rating{
@@ -5947,7 +5947,7 @@ img{
 	font-size:24px;
 	font-weight:700;
 	margin-bottom:35px;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 /*Comment Form*/
@@ -6142,7 +6142,7 @@ img{
 	text-align:center;
 	text-transform:uppercase;
 	border-right:1px solid #cccccc;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 .cart-table thead tr th .fa{
@@ -6396,7 +6396,7 @@ img{
     border-radius: 0px;
     text-transform: uppercase;
     background-color: #fbb200;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Cairo', sans-serif;
 }
 
 
