@@ -554,7 +554,7 @@ img{
 .main-menu .navigation > li > a{
 	position:relative;
 	display:block;
-	font-size:14px;
+	font-size:13px;
 	color:#ffffff;
 	line-height:30px;
 	font-weight:600;
@@ -1131,8 +1131,8 @@ img{
 
 .sec-title h2{
     position: relative;
-    color: #333333;
-    font-size: 36px;
+    color: #676767;
+    font-size: 30px;
     font-weight:700;
 	line-height:1.2em;
     padding-bottom: 15px;
@@ -3528,7 +3528,7 @@ img{
 
 .about-block-two .inner-box .content-column h3{
 	position:relative;
-	font-size:24px;
+	font-size:20px;
 	font-weight:700;
 	line-height:1.2em;
 	margin-bottom:10px;
@@ -3537,7 +3537,7 @@ img{
 
 .about-block-two .inner-box .content-column h3 a{
 	position:relative;
-	color:#333333;
+	color:#676767;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
 	-webkit-transition:all 0.3s ease;
@@ -6875,4 +6875,12 @@ img{
 }
 .flaticon-hydro-power{
 	font-size: 80px;
+}
+.fluid-section-two.fluid-section-one .content-column{
+	float: left;
+}
+
+.fluid-section-two.fluid-section-one .image-column{
+	left: auto;
+	right:0;
 }
